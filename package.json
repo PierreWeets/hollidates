@@ -1,0 +1,22 @@
+{
+  "name": "hollidates",
+  "version": "1.0.4",
+  "description": "Displays the country code from the country name and the hollydays for a given year (current year by default).",
+  "main": "/index.js",
+  "bin": {
+    "hollidates": "./index.js"
+  },
+  "scripts": {
+    "hollidates": "node ./index.js"
+  },
+  "keywords": [
+    "country",
+    "country name",
+    "country code",
+    "two-letters country code"
+  ],
+  "author": "Weets Pierre",
+  "dependencies": {
+    "figlet": "^1.5.0"
+  }
+}
