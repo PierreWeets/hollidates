@@ -13,5 +13,5 @@ in a terminal :
  * npm install chalk          // to install the npm package adding some colors to the text
  * npm install figlet         // to install the npm package displaying a text with the format of matches
 
-1 run the npm package with the command
+1 run the npm package with the command :
   npx hollidates [country_name] *[year (current year, by default)]*
