@@ -14,4 +14,4 @@ in a terminal :
  * npm install figlet         // to install the npm package displaying a text with the format of matches
 
 2.  run the npm package with the command :
-  npx hollidates [country_name] *[year (current year, by default)]*
+  **npx hollidates [country_name]** *[year (current year, by default)]*
